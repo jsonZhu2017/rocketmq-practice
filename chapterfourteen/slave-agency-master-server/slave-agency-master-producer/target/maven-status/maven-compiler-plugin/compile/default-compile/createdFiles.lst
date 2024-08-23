@@ -1,0 +1,6 @@
+com\rocketmq\cloud\youxia\config\AgencyProducerConfig.class
+com\rocketmq\cloud\youxia\listener\AgencyTransactionListener.class
+com\rocketmq\cloud\youxia\task\AgencyProducerTask.class
+com\rocketmq\cloud\youxia\AgencyProducerServer.class
+com\rocketmq\cloud\youxia\message\MessageEntity.class
+com\rocketmq\cloud\youxia\task\AgencyTransactionProducerTask.class

@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\task\ProducerTask.class
+com\rocketmq\cloud\youxia\listener\LocalTransactionListener.class
+com\rocketmq\cloud\youxia\config\DebugProducerConfig.class
+com\rocketmq\cloud\youxia\DebugAsyncProducerServer.class

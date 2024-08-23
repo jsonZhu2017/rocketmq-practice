@@ -1,0 +1,6 @@
+com\rocketmq\cloud\youxia\controller\DingdingAlarmController.class
+com\rocketmq\cloud\youxia\config\DingdingAlarmConfig.class
+com\rocketmq\cloud\youxia\util\JsonObjectUtil.class
+com\rocketmq\cloud\youxia\service\AlarmService.class
+com\rocketmq\cloud\youxia\AlertmanagerDingdingWebServer.class
+com\rocketmq\cloud\youxia\util\DingDingUtils.class

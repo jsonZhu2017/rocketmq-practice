@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\config\PayConfig.class
+com\rocketmq\cloud\youxia\controller\PayController.class
+com\rocketmq\cloud\youxia\PayServer.class
+com\rocketmq\cloud\youxia\service\PayService.class

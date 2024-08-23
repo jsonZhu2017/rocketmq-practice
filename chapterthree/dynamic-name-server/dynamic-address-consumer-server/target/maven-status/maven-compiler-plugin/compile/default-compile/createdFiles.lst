@@ -1,0 +1,5 @@
+com\rocketmq\cloud\youxia\task\ConsumerJob.class
+com\rocketmq\cloud\youxia\task\ConsumerJob$2.class
+com\rocketmq\cloud\youxia\DynamicAddressConsumerServer.class
+com\rocketmq\cloud\youxia\task\ConsumerJob$1.class
+com\rocketmq\cloud\youxia\config\ConsumerConfig.class

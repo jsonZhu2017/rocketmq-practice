@@ -1,0 +1,30 @@
+###配置全局配置信息
+global:
+  scrape_interval: 15s
+  scrape_timeout: 10s
+  evaluation_interval: 15s
+alerting:
+  alertmanagers:
+  - static_configs:
+    - targets: ['127.0.0.1:9093']
+rule_files:
+  - "rocketmq-rules.yml"
+scrape_configs:
+###配置Export Job任务
+- job_name: rocketmq-export
+  honor_timestamps: true
+  scrape_interval: 15s
+  scrape_timeout: 10s
+  ###配置度量指标的接口路径
+  metrics_path: /metrics
+  scheme: http
+  follow_redirects: true
+  static_configs:
+  ###配置RocketMQ Exporter的Open API地址信息
+  - targets: ['192.168.0.123:5557']
+    labels:
+      project: rocketmq-export
+      ###配置RocketMQ的Name Server地址信息，方便检索。
+      instance: 192.168.0.123:9876
+      app: rocketmq
+      env: dev

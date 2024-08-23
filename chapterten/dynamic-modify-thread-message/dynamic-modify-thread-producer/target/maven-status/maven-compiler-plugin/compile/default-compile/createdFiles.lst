@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\config\DynamicModifyThreadConfig.class
+com\rocketmq\cloud\youxia\task\DynamicModifyThreadTask.class
+com\rocketmq\cloud\youxia\DynamicModifyThreadProducer.class

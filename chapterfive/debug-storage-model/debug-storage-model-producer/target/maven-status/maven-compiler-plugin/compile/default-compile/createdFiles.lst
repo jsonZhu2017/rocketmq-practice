@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\task\DebugProducerTask.class
+com\rocketmq\cloud\youxia\DebugStorageModelProducer.class
+com\rocketmq\cloud\youxia\config\DebugProducerConfig.class

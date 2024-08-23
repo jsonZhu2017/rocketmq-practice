@@ -1,0 +1,7 @@
+com\rocketmq\cloud\youxia\DynamicConfig.class
+com\rocketmq\cloud\youxia\ProducerMessageJob.class
+com\rocketmq\cloud\youxia\pool\ProducerCenterPool.class
+com\rocketmq\cloud\youxia\ProducerStatusJob.class
+com\rocketmq\cloud\youxia\DynamicJob.class
+com\rocketmq\cloud\youxia\DynamicShrinkageProducerServer.class
+com\rocketmq\cloud\youxia\task\SendMessageTask.class

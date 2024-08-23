@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\config\PressureMeasurementBatchConfig.class
+com\rocketmq\cloud\youxia\task\ConsumerTask$1.class
+com\rocketmq\cloud\youxia\task\ConsumerTask.class
+com\rocketmq\cloud\youxia\PressureMeasurementBatchConsumer.class

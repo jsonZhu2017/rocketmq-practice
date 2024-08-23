@@ -1,0 +1,10 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\task\ProducerTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\task\ProducerBatchTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\task\StatisticsEnum.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\config\PressureMeasurementBatchConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\PressureMeasurementBatchProducer.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\task\GlobalCyclicBarrierLock.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\task\StatisticsPool.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\task\ExecutorServiceCache.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\task\StatisticsTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfive\pressure-measurement-batch-message\pressure-measurement-batch-producer\src\main\java\com\rocketmq\cloud\youxia\task\MessageCachePool.java

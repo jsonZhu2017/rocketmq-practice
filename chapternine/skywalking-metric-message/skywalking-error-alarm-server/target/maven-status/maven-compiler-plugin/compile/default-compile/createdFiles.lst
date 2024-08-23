@@ -1,0 +1,8 @@
+com\rocketmq\cloud\youxia\SkywalkingErrorAlarmServer.class
+com\rocketmq\cloud\youxia\task\SkywalkingErrorJob.class
+com\rocketmq\cloud\youxia\util\HttpClientUtils.class
+com\rocketmq\cloud\youxia\dto\SkywalkingAlarmMessage.class
+com\rocketmq\cloud\youxia\service\SkywalkingErrorAlarmService.class
+com\rocketmq\cloud\youxia\util\RestResult.class
+com\rocketmq\cloud\youxia\util\DingDingUtils.class
+com\rocketmq\cloud\youxia\config\SkywalkingErrorTraceConfig.class

@@ -1,0 +1,13 @@
+com\rocketmq\cloud\youxia\dispatch\ProducerAsyncTraceDispatcher$AsyncAppenderRequest.class
+com\rocketmq\cloud\youxia\hook\CustomTraceProducerHookImpl.class
+com\rocketmq\cloud\youxia\hook\CustomEndTransactionHookImpl.class
+com\rocketmq\cloud\youxia\config\DispatchConfig.class
+com\rocketmq\cloud\youxia\dispatch\ProducerAsyncTraceDispatcher$AsyncAppenderRequest$2.class
+com\rocketmq\cloud\youxia\task\ProducerTask.class
+com\rocketmq\cloud\youxia\dispatch\ProducerAsyncTraceDispatcher$1.class
+com\rocketmq\cloud\youxia\dispatch\ProducerAsyncTraceDispatcher$AsyncAppenderRequest$1.class
+com\rocketmq\cloud\youxia\config\CustomHookConfig.class
+com\rocketmq\cloud\youxia\dispatch\ProducerAsyncTraceDispatcher$AsyncRunnable.class
+com\rocketmq\cloud\youxia\listener\LocalTransactionListener.class
+com\rocketmq\cloud\youxia\dispatch\ProducerAsyncTraceDispatcher.class
+com\rocketmq\cloud\youxia\CustomHookProducerServer.class

@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\config\FaultToleranceConfig.class
+com\rocketmq\cloud\youxia\listener\IMessageListenerConcurrently.class
+com\rocketmq\cloud\youxia\FaultToleranceConsumer.class
+com\rocketmq\cloud\youxia\task\ConsumerTask.class

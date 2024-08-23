@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\DynamicQueueProducerServer.class
+com\rocketmq\cloud\youxia\DynamicQueueProducerServer$ProducerThreadB.class
+com\rocketmq\cloud\youxia\DynamicQueueProducerServer$ProducerThreadA.class
+com\rocketmq\cloud\youxia\DynamicQueueProducerServer$ProducerThreadC.class

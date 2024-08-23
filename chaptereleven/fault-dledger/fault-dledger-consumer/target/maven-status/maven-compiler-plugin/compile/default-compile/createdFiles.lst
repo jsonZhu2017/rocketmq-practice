@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\FaultDledgerConsumerServer.class
+com\rocketmq\cloud\youxia\config\FaultDledgerConsumerConfig.class
+com\rocketmq\cloud\youxia\listener\FaultMessageListener.class
+com\rocketmq\cloud\youxia\task\ConsumerTask.class

@@ -1,0 +1,12 @@
+com\rocketmq\cloud\youxia\function\GoodFunction.class
+com\rocketmq\cloud\youxia\config\GoodConfig.class
+com\rocketmq\cloud\youxia\task\GoodStreamTask.class
+com\rocketmq\cloud\youxia\util\ProducerUtil$InstanceHodler.class
+com\rocketmq\cloud\youxia\entity\GoodEntity.class
+com\rocketmq\cloud\youxia\RocketmqTradeServer.class
+com\rocketmq\cloud\youxia\util\ProducerUtil.class
+com\rocketmq\cloud\youxia\task\ProducerGoodRecordTask.class
+com\rocketmq\cloud\youxia\controller\SourceProducerController.class
+com\rocketmq\cloud\youxia\task\GoodStreamTask$1.class
+com\rocketmq\cloud\youxia\task\GoodStreamTask$2.class
+com\rocketmq\cloud\youxia\mapper\GoodMapper.class

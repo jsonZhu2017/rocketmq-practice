@@ -1,0 +1,4 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereleven\fault-tolerance\fault-tolerance-consumer\src\main\java\com\rocketmq\cloud\youxia\task\ConsumerTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereleven\fault-tolerance\fault-tolerance-consumer\src\main\java\com\rocketmq\cloud\youxia\config\FaultToleranceConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereleven\fault-tolerance\fault-tolerance-consumer\src\main\java\com\rocketmq\cloud\youxia\FaultToleranceConsumer.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereleven\fault-tolerance\fault-tolerance-consumer\src\main\java\com\rocketmq\cloud\youxia\listener\IMessageListenerConcurrently.java

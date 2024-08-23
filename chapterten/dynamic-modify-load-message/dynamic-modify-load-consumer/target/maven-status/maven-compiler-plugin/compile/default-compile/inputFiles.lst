@@ -1,0 +1,6 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\dynamic-modify-load-message\dynamic-modify-load-consumer\src\main\java\com\rocketmq\cloud\youxia\constant\LoadBalanceStrategyEnum.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\dynamic-modify-load-message\dynamic-modify-load-consumer\src\main\java\com\rocketmq\cloud\youxia\listener\IMessageListenerConcurrently.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\dynamic-modify-load-message\dynamic-modify-load-consumer\src\main\java\com\rocketmq\cloud\youxia\task\ConsumerTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\dynamic-modify-load-message\dynamic-modify-load-consumer\src\main\java\com\rocketmq\cloud\youxia\allocate\DefaultMachineRoomResolver.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\dynamic-modify-load-message\dynamic-modify-load-consumer\src\main\java\com\rocketmq\cloud\youxia\config\DynamicModifyLoadConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\dynamic-modify-load-message\dynamic-modify-load-consumer\src\main\java\com\rocketmq\cloud\youxia\DynamicModifyLoadConsumer.java

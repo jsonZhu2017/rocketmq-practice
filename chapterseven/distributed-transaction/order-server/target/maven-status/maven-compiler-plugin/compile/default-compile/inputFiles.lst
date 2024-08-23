@@ -1,0 +1,14 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\common\StartCreateServiceThread.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\config\OrderConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\service\OrderService.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\mapper\OrderItemMapper.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\manager\OrderItemManager.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\entity\OrderItemEntity.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com.rocketmq.cloud.youxia\OrderServer.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\manager\OrderManager.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\common\InsertBeforeOrderService.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\entity\OrderEntity.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\common\CreateOrderService.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\common\ServiceThread.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\common\CreateOrderRequest.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\order-server\src\main\java\com\rocketmq\cloud\youxia\mapper\OrderMapper.java

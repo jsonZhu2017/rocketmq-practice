@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\config\HaRetryConsumerConfig.class
+com\rocketmq\cloud\youxia\task\HaRetryConsumerTask.class
+com\rocketmq\cloud\youxia\listener\IMessageListenerConcurrently.class
+com\rocketmq\cloud\youxia\HaRetryConsumer.class

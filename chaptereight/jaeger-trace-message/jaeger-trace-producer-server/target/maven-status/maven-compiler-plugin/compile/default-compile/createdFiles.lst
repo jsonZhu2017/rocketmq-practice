@@ -1,0 +1,5 @@
+com\rocketmq\cloud\youxia\listener\LocalTransactionListener.class
+com\rocketmq\cloud\youxia\task\JaegerProducerTask.class
+com\rocketmq\cloud\youxia\config\ProducerConfig.class
+com\rocketmq\cloud\youxia\JaegerTraceProducerServer.class
+com\rocketmq\cloud\youxia\trace\TraceUtils.class

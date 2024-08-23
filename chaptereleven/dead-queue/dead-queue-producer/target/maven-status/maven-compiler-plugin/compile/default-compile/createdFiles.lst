@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\config\DeadQueueProducerConfig.class
+com\rocketmq\cloud\youxia\task\DeadQueueProducerTask.class
+com\rocketmq\cloud\youxia\DeadQueueProducer.class

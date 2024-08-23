@@ -1,0 +1,6 @@
+com\rocketmq\cloud\youxia\constant\LoadBalanceStrategyEnum.class
+com\rocketmq\cloud\youxia\DynamicModifyLoadConsumer.class
+com\rocketmq\cloud\youxia\config\DynamicModifyLoadConfig.class
+com\rocketmq\cloud\youxia\listener\IMessageListenerConcurrently.class
+com\rocketmq\cloud\youxia\allocate\DefaultMachineRoomResolver.class
+com\rocketmq\cloud\youxia\task\ConsumerTask.class

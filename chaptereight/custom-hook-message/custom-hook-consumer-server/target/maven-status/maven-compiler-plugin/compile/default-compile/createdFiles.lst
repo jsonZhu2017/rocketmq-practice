@@ -1,0 +1,12 @@
+com\rocketmq\cloud\youxia\task\ConsumerTask$1.class
+com\rocketmq\cloud\youxia\hook\CustomTraceConsumerHookImpl.class
+com\rocketmq\cloud\youxia\dispatch\ConsumerAsyncTraceDispatcher$1.class
+com\rocketmq\cloud\youxia\config\DispatchConfig.class
+com\rocketmq\cloud\youxia\dispatch\ConsumerAsyncTraceDispatcher.class
+com\rocketmq\cloud\youxia\task\ConsumerTask.class
+com\rocketmq\cloud\youxia\config\CustomHookConfig.class
+com\rocketmq\cloud\youxia\dispatch\ConsumerAsyncTraceDispatcher$AsyncRunnable.class
+com\rocketmq\cloud\youxia\dispatch\ConsumerAsyncTraceDispatcher$AsyncAppenderRequest$1.class
+com\rocketmq\cloud\youxia\CustomHookConsumerServer.class
+com\rocketmq\cloud\youxia\dispatch\ConsumerAsyncTraceDispatcher$AsyncAppenderRequest$2.class
+com\rocketmq\cloud\youxia\dispatch\ConsumerAsyncTraceDispatcher$AsyncAppenderRequest.class

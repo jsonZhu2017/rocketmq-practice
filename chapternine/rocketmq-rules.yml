@@ -1,0 +1,81 @@
+groups:
+  - name: rocketmq-rules
+    rules:
+      - alert: high disk ratio warning
+        expr: sum(rocketmq_brokeruntime_commitlog_disk_ratio) by (cluster,brokerIP) * 100 > 60
+        for: 10m
+        labels:
+          group: rocketmq-exporter-alarm
+          severity: warning
+        annotations:
+          summary: Commitlog文件夹对应的物理磁盘的使用率高于60%，并持续10分钟，触发此告警！
+          description: 集群 {{$labels.cluster}} 中的Broker Server节点 {{$labels.brokerIP}} 中的Commitlog文件夹对应的物理磁盘使用率过高，值为 {{ printf "%.2f" $value }}%，持续时间超过10分钟。
+
+      - alert: high disk ratio critical
+        expr: sum(rocketmq_brokeruntime_commitlog_disk_ratio) by (cluster,brokerIP) * 100 > 80
+        for: 5m
+        labels:
+          group: rocketmq-exporter-alarm
+          severity: critical
+        annotations:
+          summary: Commitlog文件夹对应的物理磁盘的使用率高于80%，并持续5分钟，触发此告警！
+          description: 集群 {{$labels.cluster}} 中的Broker Server节点 {{$labels.brokerIP}} 中的Commitlog文件夹对应的物理磁盘使用率过高，值为 {{ printf "%.2f" $value }}%，持续时间超过5分钟，请注意磁盘使用增长。
+
+      - alert: broker maybe down
+        expr: rocketmq_brokeruntime_start_accept_sendrequest_time offset 2m unless rocketmq_brokeruntime_start_accept_sendrequest_time
+        labels:
+          group: rocketmq-exporter-alarm
+          severity: critical
+        annotations:
+          summary: 对比两分钟内接收发送请求的broker信息列表，如果两分钟前broker列表数量大于当前，则可能是Broker故障，触发此告警！
+          description: 集群 {{$labels.cluster}} 中的Broker Server节点 {{$labels.brokerIP}} 两分钟内Broker列表不一致，请检查Broker是否正常！
+
+      - alert: message backlog warning
+        expr: label_replace(sum(rocketmq_producer_offset) by (topic) - on(topic) group_right sum(rocketmq_consumer_offset) by (cluster,group,topic) > 5000, "consumergroup", "$1", "group", "(.*)")
+        for: 10m
+        labels:
+          group: rocketmq-exporter-alarm
+          severity: warning
+        annotations:
+          summary: 当消费消费速度过慢，导致队列积压，积压数达到5000并持续10分钟，触发此告警！
+          description: 集群 {{$labels.cluster}} 中的Topic {{$labels.topic}} 出现消息积压，对应的Group为 {{$labels.consumergroup}}，已持续10分钟，积压量为 {{$value}}
+
+      - alert: message backlog critical
+        expr: label_replace(sum(rocketmq_producer_offset) by (topic) - on(topic) group_right sum(rocketmq_consumer_offset) by (cluster,group,topic) > 10000, "consumergroup", "$1", "group", "(.*)")
+        for: 10m
+        labels:
+          group: rocketmq-exporter-alarm
+          severity: critical
+        annotations:
+          summary: 当消费消费速度过慢，导致队列积压，积压数达到10000并持续10分钟，触发此告警！
+          description: 集群 {{$labels.cluster}} 的Topic {{$labels.topic}} 出现消息积压，对应的Group为 {{$labels.consumergroup}}，已持续10分钟，积压量为：{{$value}}
+
+      - alert: find dlq message
+        expr: label_replace(sum(rocketmq_topic_dlq_offset) by (group,cluster) > 1000, "consumergroup", "$1", "group", "(.*)")
+        for: 5m
+        labels:
+          group: rocketmq-exporter-alarm
+          severity: critical
+        annotations:
+          summary: 当消息消费次数达到最大限制，消息进入死信队列，死信队列积压数达到1000，触发此告警！
+          description: 集群 {{$labels.cluster}} 的Group {{$labels.consumergroup}} 出现死信消息，死信队列中消息数量为 {{$value}}
+
+      - alert: retry message backlog
+        expr: sum(rocketmq_topic_retry_offset) by (cluster,topic) > 10000
+        for: 1h
+        labels:
+          group: rocketmq-exporter-alarm
+          severity: warning
+        annotations:
+          summary: 消息消费失败后，进入重试队列，重试队列积压数达到10000，并持续1小时未消费，触发此告警！
+          description: 集群 {{$labels.cluster}} 的Topic {{$labels.topic}}对应的重试队列积压数为 {{$value}}，持续时间超过1小时，请检查消费者是否正常
+
+      - alert: consumer delay
+        expr: label_replace((sum by(cluster, broker, group, topic) (rocketmq_group_get_latency_by_storetime) / (1000 * 60 * 60) ) > 12, "consumergroup", "$1", "group", "(.*)")
+        for: 5m
+        labels:
+          group: rocketmq-exporter-alarm
+          severity: warning
+        annotations:
+          summary: 当消息生产后超过12小时还未被消费，持续5分钟，触发此告警！
+          description: 消费者消费延迟超过12小时，持续时间超过5分钟。\n 集群 {{$labels.cluster}}； \n Topic {{$labels.topic}}；\n Group {{$labels.consumergroup}}；\n 延迟时间 {{ printf "%.2f" $value }} 小时。

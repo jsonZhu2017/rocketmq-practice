@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\config\HandleDledgerProducerConfig.class
+com\rocketmq\cloud\youxia\task\HandleDledgerProducerTask.class
+com\rocketmq\cloud\youxia\HandleDledgerProducerServer.class

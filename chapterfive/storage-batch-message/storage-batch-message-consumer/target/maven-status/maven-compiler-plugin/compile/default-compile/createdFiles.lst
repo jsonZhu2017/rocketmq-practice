@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\task\BatchConsumerTask.class
+com\rocketmq\cloud\youxia\StorageBatchMessageConsumer.class
+com\rocketmq\cloud\youxia\task\BatchConsumerTask$1.class
+com\rocketmq\cloud\youxia\config\StorageBatchMessageConfig.class

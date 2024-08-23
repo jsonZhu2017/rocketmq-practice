@@ -1,0 +1,5 @@
+com\rocketmq\cloud\youxia\task\JaegerConsumerTask$1.class
+com\rocketmq\cloud\youxia\JaegerTraceConsumerServer.class
+com\rocketmq\cloud\youxia\task\JaegerConsumerTask.class
+com\rocketmq\cloud\youxia\config\ConsumerConfig.class
+com\rocketmq\cloud\youxia\trace\TraceUtils.class

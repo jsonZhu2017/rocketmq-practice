@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\task\BatchProducerTask.class
+com\rocketmq\cloud\youxia\config\StorageBatchMessageConfig.class
+com\rocketmq\cloud\youxia\StorageBatchMessageProducer.class

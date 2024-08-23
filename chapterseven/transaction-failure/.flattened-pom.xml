@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.rocketmq.youxia</groupId>
+  <artifactId>transaction-failure</artifactId>
+  <version>1.0.0.RELEASE</version>
+  <packaging>pom</packaging>
+  <name>transaction-failure</name>
+  <description>RocketMQ消息中间件架构实战派上下册</description>
+</project>

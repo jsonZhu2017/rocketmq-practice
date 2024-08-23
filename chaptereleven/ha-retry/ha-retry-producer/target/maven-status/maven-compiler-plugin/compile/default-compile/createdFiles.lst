@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\config\HaRetryProducerConfig.class
+com\rocketmq\cloud\youxia\task\HaRetryProducerTask.class
+com\rocketmq\cloud\youxia\HaRetryProducer.class

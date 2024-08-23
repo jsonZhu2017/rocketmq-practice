@@ -1,0 +1,6 @@
+com\rocketmq\cloud\youxia\task\ConsumerTask$1.class
+com\rocketmq\cloud\youxia\CommonOrderMessageConsumer.class
+com\rocketmq\cloud\youxia\task\MappingRelation.class
+com\rocketmq\cloud\youxia\task\MappingRelationTask.class
+com\rocketmq\cloud\youxia\task\ConsumerTask.class
+com\rocketmq\cloud\youxia\config\ConsumerConfig.class

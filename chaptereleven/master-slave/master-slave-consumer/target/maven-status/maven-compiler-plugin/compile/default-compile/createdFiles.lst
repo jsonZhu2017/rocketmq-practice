@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\MasterSlaveConsumerServer.class
+com\rocketmq\cloud\youxia\config\MasterSlaveConsumerConfig.class
+com\rocketmq\cloud\youxia\listener\MasterSlaveListener.class
+com\rocketmq\cloud\youxia\task\MasterSlaveConsumerTask.class

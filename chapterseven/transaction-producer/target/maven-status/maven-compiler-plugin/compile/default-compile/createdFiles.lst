@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\config\TransactionProducerConfig.class
+com\rocketmq\cloud\youxia\TransactionpProducerServer.class
+com\rocketmq\cloud\youxia\listener\LocalTransactionListener.class
+com\rocketmq\cloud\youxia\task\TransactionProducerTask.class

@@ -1,0 +1,9 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chapterthirteen\rocketmq-stream-server\rocketmq-good-server\src\main\java\com\rocketmq\cloud\youxia\entity\GoodEntity.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterthirteen\rocketmq-stream-server\rocketmq-good-server\src\main\java\com\rocketmq\cloud\youxia\function\GoodFunction.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterthirteen\rocketmq-stream-server\rocketmq-good-server\src\main\java\com\rocketmq\cloud\youxia\util\ProducerUtil.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterthirteen\rocketmq-stream-server\rocketmq-good-server\src\main\java\com\rocketmq\cloud\youxia\config\GoodConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterthirteen\rocketmq-stream-server\rocketmq-good-server\src\main\java\com\rocketmq\cloud\youxia\controller\SourceProducerController.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterthirteen\rocketmq-stream-server\rocketmq-good-server\src\main\java\com\rocketmq\cloud\youxia\RocketmqTradeServer.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterthirteen\rocketmq-stream-server\rocketmq-good-server\src\main\java\com\rocketmq\cloud\youxia\task\GoodStreamTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterthirteen\rocketmq-stream-server\rocketmq-good-server\src\main\java\com\rocketmq\cloud\youxia\task\ProducerGoodRecordTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterthirteen\rocketmq-stream-server\rocketmq-good-server\src\main\java\com\rocketmq\cloud\youxia\mapper\GoodMapper.java

@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\task\ProducerTask.class
+com\rocketmq\cloud\youxia\DingdingMonitorProducerServer.class
+com\rocketmq\cloud\youxia\config\MonitorProducerConfig.class

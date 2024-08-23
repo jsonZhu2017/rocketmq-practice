@@ -1,0 +1,6 @@
+com\rocketmq\cloud\youxia\config\StrictProducerConfig.class
+com\rocketmq\cloud\youxia\task\SendMessageWorker$1.class
+com\rocketmq\cloud\youxia\StrictOrderMessageProducer.class
+com\rocketmq\cloud\youxia\task\SimulateOrderManager.class
+com\rocketmq\cloud\youxia\task\StrictProducerTask.class
+com\rocketmq\cloud\youxia\task\SendMessageWorker.class

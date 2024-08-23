@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\config\UseRocketmqThreadConfig.class
+com\rocketmq\cloud\youxia\task\ProducerTask.class
+com\rocketmq\cloud\youxia\thread\ProducerThread.class
+com\rocketmq\cloud\youxia\UseRocketmqThreadProducer.class

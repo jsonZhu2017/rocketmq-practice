@@ -1,0 +1,13 @@
+com\rocketmq\cloud\youxia\task\ProducerBatchTask.class
+com\rocketmq\cloud\youxia\PressureMeasurementBatchProducer.class
+com\rocketmq\cloud\youxia\task\GlobalCyclicBarrierLock$1.class
+com\rocketmq\cloud\youxia\task\StatisticsTask.class
+com\rocketmq\cloud\youxia\config\PressureMeasurementBatchConfig.class
+com\rocketmq\cloud\youxia\task\ProducerTask.class
+com\rocketmq\cloud\youxia\task\GlobalCyclicBarrierLock.class
+com\rocketmq\cloud\youxia\task\StatisticsEnum.class
+com\rocketmq\cloud\youxia\task\ProducerTask$1.class
+com\rocketmq\cloud\youxia\task\ProducerBatchTask$1.class
+com\rocketmq\cloud\youxia\task\StatisticsPool.class
+com\rocketmq\cloud\youxia\task\ExecutorServiceCache.class
+com\rocketmq\cloud\youxia\task\MessageCachePool.class

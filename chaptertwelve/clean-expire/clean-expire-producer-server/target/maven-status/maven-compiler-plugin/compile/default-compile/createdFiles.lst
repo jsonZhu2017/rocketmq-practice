@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\CleanExpireProducerServer.class
+com\rocketmq\cloud\youxia\task\ProducerMessageTask.class
+com\rocketmq\cloud\youxia\config\CleanExpireProducerConfig.class

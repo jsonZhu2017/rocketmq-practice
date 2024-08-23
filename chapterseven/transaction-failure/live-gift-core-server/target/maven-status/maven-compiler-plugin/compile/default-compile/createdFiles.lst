@@ -1,0 +1,15 @@
+com\rocketmq\cloud\youxia\config\LiveGiftConfig.class
+com\rocketmq\cloud\youxia\entity\SevenLiveGiftEntity.class
+com\rocketmq\cloud\youxia\transactionlistener\GiftTransactionListener.class
+com\rocketmq\cloud\youxia\entity\SevenLogEntity.class
+com\rocketmq\cloud\youxia\mapper\SevenLogMapper.class
+com\rocketmq\cloud\youxia\manager\SevenLiveGiftManager.class
+com\rocketmq\cloud\youxia\config\MybatisPlusConfig.class
+com\rocketmq\cloud\youxia\mapper\SevenLiveGiftMapper.class
+com\rocketmq\cloud\youxia\task\CacheTask.class
+com\rocketmq\cloud\youxia\LiveGiftCoreServer.class
+com\rocketmq\cloud\youxia\manager\SevenLogManager.class
+com\rocketmq\cloud\youxia\task\GiftCachePool.class
+com\rocketmq\cloud\youxia\task\GiftTask.class
+com\rocketmq\cloud\youxia\task\DataTask.class
+com\rocketmq\cloud\youxia\task\ProducerCachePool.class

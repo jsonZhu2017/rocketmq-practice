@@ -1,0 +1,7 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\trade-server\src\main\java\com\rocketmq\cloud\youxia\manager\OrderManager.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\trade-server\src\main\java\com\rocketmq\cloud\youxia\config\TransactionProducerConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\trade-server\src\main\java\com\rocketmq\cloud\youxia\service\TradeServiceImpl.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\trade-server\src\main\java\com\rocketmq\cloud\youxia\listener\LockStorageTransactionListener.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\trade-server\src\main\java\com\rocketmq\cloud\youxia\rocketmq\ProducerLockStorageMessage.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\trade-server\src\main\java\com\rocketmq\cloud\youxia\TradeServer.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\distributed-transaction\trade-server\src\main\java\com\rocketmq\cloud\youxia\dto\LockStorageMessageDTO.java

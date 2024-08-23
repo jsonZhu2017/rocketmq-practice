@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\config\NameServerConfig.class
+com\rocketmq\cloud\youxia\DynamicAddressServer.class
+com\rocketmq\cloud\youxia\controller\NameServerAddressController.class

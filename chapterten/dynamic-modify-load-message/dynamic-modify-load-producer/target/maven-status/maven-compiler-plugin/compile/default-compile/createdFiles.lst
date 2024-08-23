@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\task\ProducerTask.class
+com\rocketmq\cloud\youxia\DynamicModifyLoadProducer.class
+com\rocketmq\cloud\youxia\config\DynamicModifyLoadConfig.class

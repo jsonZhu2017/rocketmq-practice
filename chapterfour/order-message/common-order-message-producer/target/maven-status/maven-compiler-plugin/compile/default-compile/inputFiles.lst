@@ -1,0 +1,6 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfour\order-message\common-order-message-producer\src\main\java\com\rocketmq\cloud\youxia\config\ProducerConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfour\order-message\common-order-message-producer\src\main\java\com\rocketmq\cloud\youxia\task\SendMessageWorker.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfour\order-message\common-order-message-producer\src\main\java\com\rocketmq\cloud\youxia\task\SimulatingMultithreadedOrder.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfour\order-message\common-order-message-producer\src\main\java\com\rocketmq\cloud\youxia\task\ProducerTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfour\order-message\common-order-message-producer\src\main\java\com\rocketmq\cloud\youxia\task\SimulateOrderManager.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterfour\order-message\common-order-message-producer\src\main\java\com\rocketmq\cloud\youxia\CommonOrderMessageProducer.java

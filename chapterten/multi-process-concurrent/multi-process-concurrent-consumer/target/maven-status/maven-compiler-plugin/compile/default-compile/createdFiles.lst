@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\MultiProcessCocurrentConsumer.class
+com\rocketmq\cloud\youxia\task\MultiConcurrentConsumerTask.class
+com\rocketmq\cloud\youxia\listener\IMessageListenerConcurrently.class
+com\rocketmq\cloud\youxia\config\MultiProcessConcurrentConfig.class

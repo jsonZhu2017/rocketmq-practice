@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\task\ProducerTask.class
+com\rocketmq\cloud\youxia\AlertmanagerAlarmProducerServer.class
+com\rocketmq\cloud\youxia\config\AlertManagerProducerConfig.class
+com\rocketmq\cloud\youxia\task\ProducerTask$ProducerThread.class

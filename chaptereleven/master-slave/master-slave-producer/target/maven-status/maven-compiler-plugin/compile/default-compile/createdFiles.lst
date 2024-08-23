@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\config\MasterSlaveProducerConfig.class
+com\rocketmq\cloud\youxia\task\MasterSlaveProducerTask.class
+com\rocketmq\cloud\youxia\MasterSlaveProducerServer.class

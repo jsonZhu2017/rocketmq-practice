@@ -1,0 +1,8 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereight\custom-hook-message\custom-hook-producer-server\src\main\java\com\rocketmq\cloud\youxia\config\CustomHookConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereight\custom-hook-message\custom-hook-producer-server\src\main\java\com\rocketmq\cloud\youxia\dispatch\ProducerAsyncTraceDispatcher.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereight\custom-hook-message\custom-hook-producer-server\src\main\java\com\rocketmq\cloud\youxia\hook\CustomEndTransactionHookImpl.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereight\custom-hook-message\custom-hook-producer-server\src\main\java\com\rocketmq\cloud\youxia\config\DispatchConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereight\custom-hook-message\custom-hook-producer-server\src\main\java\com\rocketmq\cloud\youxia\hook\CustomTraceProducerHookImpl.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereight\custom-hook-message\custom-hook-producer-server\src\main\java\com\rocketmq\cloud\youxia\task\ProducerTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereight\custom-hook-message\custom-hook-producer-server\src\main\java\com\rocketmq\cloud\youxia\CustomHookProducerServer.java
+H:\IntelliJ_Workspace\rocketmq-practice\chaptereight\custom-hook-message\custom-hook-producer-server\src\main\java\com\rocketmq\cloud\youxia\listener\LocalTransactionListener.java

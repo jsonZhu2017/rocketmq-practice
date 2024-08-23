@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\task\ConsumerTask$1.class
+com\rocketmq\cloud\youxia\config\DebugConsumerConfig.class
+com\rocketmq\cloud\youxia\DebugAsyncConsumerServer.class
+com\rocketmq\cloud\youxia\task\ConsumerTask.class

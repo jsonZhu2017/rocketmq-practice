@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\DynamicAddressProducerServer.class
+com\rocketmq\cloud\youxia\config\ProducerConfig.class
+com\rocketmq\cloud\youxia\task\ProducerJob.class

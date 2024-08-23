@@ -1,0 +1,4 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\single-process-concurrent\single-process-concurrent-consumer\src\main\java\com\rocketmq\cloud\youxia\SingleProcessCocurrentConsumer.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\single-process-concurrent\single-process-concurrent-consumer\src\main\java\com\rocketmq\cloud\youxia\config\SingleProcessConcurrentConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\single-process-concurrent\single-process-concurrent-consumer\src\main\java\com\rocketmq\cloud\youxia\listener\IMessageListenerConcurrently.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterten\single-process-concurrent\single-process-concurrent-consumer\src\main\java\com\rocketmq\cloud\youxia\task\ConcurrentConsumerTask.java

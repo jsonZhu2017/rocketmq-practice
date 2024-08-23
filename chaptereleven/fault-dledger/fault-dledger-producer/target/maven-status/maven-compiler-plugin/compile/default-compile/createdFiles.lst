@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\FaultDledgerProducerServer.class
+com\rocketmq\cloud\youxia\task\FaultDledgerProducerTask.class
+com\rocketmq\cloud\youxia\config\FaultDledgerProducerConfig.class

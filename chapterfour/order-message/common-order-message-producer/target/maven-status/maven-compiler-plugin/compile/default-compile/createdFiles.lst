@@ -1,0 +1,6 @@
+com\rocketmq\cloud\youxia\task\SendMessageWorker$1.class
+com\rocketmq\cloud\youxia\task\SimulateOrderManager.class
+com\rocketmq\cloud\youxia\CommonOrderMessageProducer.class
+com\rocketmq\cloud\youxia\task\SendMessageWorker.class
+com\rocketmq\cloud\youxia\config\ProducerConfig.class
+com\rocketmq\cloud\youxia\task\SimulatingMultithreadedOrder.class

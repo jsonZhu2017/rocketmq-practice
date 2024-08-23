@@ -1,0 +1,3 @@
+com\rocketmq\cloud\youxia\MultiProcessCocurrentProducer.class
+com\rocketmq\cloud\youxia\config\MultiProcessConcurrentConfig.class
+com\rocketmq\cloud\youxia\task\MultiConcurrentProducerTask.class

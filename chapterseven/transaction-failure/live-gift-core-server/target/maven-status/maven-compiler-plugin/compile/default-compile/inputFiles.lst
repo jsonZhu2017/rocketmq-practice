@@ -1,0 +1,15 @@
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\mapper\SevenLiveGiftMapper.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\entity\SevenLiveGiftEntity.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\entity\SevenLogEntity.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\task\DataTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\task\CacheTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\transactionlistener\GiftTransactionListener.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\manager\SevenLiveGiftManager.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\mapper\SevenLogMapper.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\task\ProducerCachePool.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\config\LiveGiftConfig.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\manager\SevenLogManager.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\task\GiftCachePool.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\task\GiftTask.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\LiveGiftCoreServer.java
+H:\IntelliJ_Workspace\rocketmq-practice\chapterseven\transaction-failure\live-gift-core-server\src\main\java\com\rocketmq\cloud\youxia\config\MybatisPlusConfig.java

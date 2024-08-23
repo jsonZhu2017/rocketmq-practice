@@ -1,0 +1,5 @@
+com\rocketmq\cloud\youxia\thread\ConsumerThread.class
+com\rocketmq\cloud\youxia\UseRocketMqThreadConsumer.class
+com\rocketmq\cloud\youxia\listener\IMessageListenerConcurrently.class
+com\rocketmq\cloud\youxia\task\ConsumerTask.class
+com\rocketmq\cloud\youxia\config\ConsumerConfig.class

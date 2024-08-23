@@ -1,0 +1,4 @@
+com\rocketmq\cloud\youxia\MasterUpdateDledgerServer.class
+com\rocketmq\cloud\youxia\task\MasterUpdateConsumerTask.class
+com\rocketmq\cloud\youxia\config\MasterUpdateDledgerConfig.class
+com\rocketmq\cloud\youxia\listener\HandleDledgerListener.class

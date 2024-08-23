@@ -1,0 +1,6 @@
+com\rocketmq\cloud\youxia\service\RocketmqTask.class
+com\rocketmq\cloud\youxia\source\ProduceMessageSource.class
+com\rocketmq\cloud\youxia\config\CommandModeProducerConfig.class
+com\rocketmq\cloud\youxia\service\RocketmqTask$SendMessage.class
+com\rocketmq\cloud\youxia\service\SenderService.class
+com\rocketmq\cloud\youxia\CommandModeProducerServer.class
