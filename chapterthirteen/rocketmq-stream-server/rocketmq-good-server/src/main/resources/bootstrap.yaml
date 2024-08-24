@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/rocketmq_practice?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useUnicode=true&useSSL=false&serverTimezone=UTC
     username: root
-    password: 123456huxian
+    password: root
     maximumPoolSize: 10
     minimumIdle: 2
     idleTimeout: 600000
